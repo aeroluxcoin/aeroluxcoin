@@ -1,0 +1,12 @@
+{
+  "contract": "0x8bd7f2C44938fd903764fE1F6B4d555ACDbCf858",
+  "chain": "bsc",
+  "chain_id": 56,
+  "symbol": "ALC",
+  "decimals": 18,
+  "max_supply": "1000000000000",
+  "total_supply": "1000000000000",
+  "circulating_supply": "",
+  "note": "All numeric values are strings. Update circulating_supply as needed.",
+  "updated_at": "2025-08-09T07:56:53.668203Z"
+}
