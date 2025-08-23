@@ -32,6 +32,8 @@ AeroLux Coin ($ALC) is designed to bring aviation luxury into Web3. It powers st
 - Telegram: Coming soon
 - Email: teamaeroluxcoin.space@outlook.com
 
----
+---## 📢 Official Notice (Aug 23, 2025)
+We confirm our **CoinMarketCap listing request** under Ticket ID: **1260843**.  
+This update is published on our official website & GitHub repo to verify authenticity.
 
 > 🚨 Disclaimer: This is not financial advice. Always DYOR before investing.
